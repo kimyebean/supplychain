@@ -1,0 +1,10 @@
+packages/certifi-2025.8.3-py3-none-any.whl:
+--hash=sha256:f6c12493cfb1b06ba2ff328595af9350c65d6644968e5d3a2ffd78699af217a5
+packages/charset_normalizer-3.4.3-cp39-cp39-macosx_10_9_universal2.whl:
+--hash=sha256:70bfc5f2c318afece2f5838ea5e4c3febada0be750fcf4775641052bbba14d05
+packages/idna-3.10-py3-none-any.whl:
+--hash=sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3
+packages/requests-2.32.5-py3-none-any.whl:
+--hash=sha256:2462f94637a34fd532264295e186976db0f5d453d1cdd31473c85a6a161affb6
+packages/urllib3-2.5.0-py3-none-any.whl:
+--hash=sha256:e6b01673c0fa6a13e374b50871808eb3bf7046c4b125b216f6bf1cc604cff0dc
